@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble address and petition of several peers of this realm to His Majesty of Sacred memory, King Charles the First, 1640</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44955</idno>
+            <idno type="STC">Wing H3375</idno>
+            <idno type="STC">ESTC R36009</idno>
+            <idno type="EEBO-CITATION">15586305</idno>
+            <idno type="OCLC">ocm 15586305</idno>
+            <idno type="VID">103980</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103980)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1150:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble address and petition of several peers of this realm to His Majesty of Sacred memory, King Charles the First, 1640</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Petition signed: Bedford, Hertford, Essex [and 9 others]</note>
+                  <note>Includes unsigned commentary: p. 3-4.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103980:1"/>
+            <!-- PDF PAGE 16 -->
+            <pb n="1" facs="tcp:103980:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>THE Humble Addreſs AND PETITION Of ſeveral PEERS of this Realm, TO HIS MAJESTY of Sacred Memory, <hi>King CHARLES the Firſt.</hi> 1640.</head>
+                        <opener>
+                           <salute>To the Kings moſt Excellent Majeſty.</salute>
+                        </opener>
+                        <p>
+                           <hi>WE are here to caſt our ſelves at Your Majeſties. Feet, being Twelve of the Peers of this Realm, humbly craving to recommend to Your Royal Conſideration ſeveral great Dangers and Diſtempers which threaten the Church, State, and Your Majesties Royal Perſon, which are reducible to the following Heads,</hi> viz.</p>
+                        <list>
+                           <item>1. The Danger and Hazard to which your Majeſty is expoſed in the War, the waſte of your Revenue thereby, and the Diſcontents occaſioned by the diſorders of the Soldiers.</item>
+                           <item>2. Sundry Innovations in matters of Religion.</item>
+                           <item>
+                              <pb n="2" facs="tcp:103980:2"/>
+                              <!-- PDF PAGE 17 -->
+3. Increaſe of Popery, by employing thoſe of that Religion in Places of Truſt, in Com<g ref="char:EOLhyphen"/>manding Men and Arms in the Field, they being not permitted by Law to have any Arms in their Houſes.</item>
+                           <item>4. The great miſchiefs which may enſue, if the Forces raiſed in <hi>Ireland</hi> ſhould be brought in<g ref="char:EOLhyphen"/>to <hi>England.</hi>
+                           </item>
+                           <item>5. The urging of Ship-money.</item>
+                           <item>6. The heavy charge upon Merchandize, to the diſcouragement of Trade, and the multitude of <hi>Monopolies,</hi> whereby the Manufactures of this Kingdom are burthened.</item>
+                           <item>7. The grief of the Subjects by long intermiſ<g ref="char:EOLhyphen"/>ſion of Parliaments, and the diſſolution of thoſe that have been called without effect.</item>
+                        </list>
+                        <p>
+                           <hi>For the Remedy whereof, we pray, that the Par<g ref="char:EOLhyphen"/>liament may be ſummon'd, whereby the Cauſes of the Grievances that the People lie under may be taken away, and the Authors and Counſellers of them be brought to Trial and Puniſhment, as their Offences ſhall require: And that the War may be compoſed without Blood, to the Honour and Safety of your Majeſties Perſon, the Comfort of your People, and the <g ref="char:V">Ʋ</g>niting of both Realms againſt the common Enemy of the Reformed Religion.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Bedford,</item>
+                                 <item>Hertford,</item>
+                                 <item>Eſſex,</item>
+                                 <item>Warwick,</item>
+                                 <item>Mouldgrave,</item>
+                                 <item>Bullingbrook,</item>
+                                 <item>Briſtol,</item>
+                                 <item>Say,</item>
+                                 <item>Brook,</item>
+                                 <item>Paget,</item>
+                                 <item>Mandivile.</item>
+                                 <item>Howard,</item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="3" facs="tcp:103980:2"/>
+               <!-- PDF PAGE 17 -->
+WHether the Petitions of theſe times are Copies of this of 40, is not hard to judge, nor is the method wholly forgot that then was uſed; for ſoon after the Lords had Petitioned, (ſaith <hi>Baker</hi>) ſome of the diſcontented Party ſo influenced the Common Council, that a Petition was framed in the names of all the Citizens of <hi>London;</hi> and a little before, the King took into the Privy Council ſome men that were well thought of by the <hi>Mobilee.</hi> Thus far we agree pretty well. Next the <hi>Scots</hi> were put upon by their Friends the Diſſenters of <hi>England,</hi> to preſent a Petition to the ſame effect; but here we differ, hoping the <hi>Scots</hi> in 80 have one to put them in mind of the traiterous Villanies of 40. 'Tis prodigious, that in the ſame Age, the ſame Nation ſhould bid ſo fair for a Ruine, by the ſame men, in the ſame manner; yet thoſe that take it for an affront not to be thought honeſt, run into theſe premu<g ref="char:EOLhyphen"/>nires. Sure every one that will abominate the repetition of the late Rebellion, will (were it for no other reaſon) abſtain from ſubſcribing, becauſe that was the fatal manner of the beginning of the late Civil Wars. Though this be enough, yet every honeſt man hath reaſon to refuſe, becauſe the King, conſidering the ill effects they formerly produc'd, doth almoſt Petition his Subjects not to impoſe upon him. But 'tis anſwered, that it is their duty to ſhew their Grievances, and God commands us to Petition him, and 'tis rational to Petition the Prince. But they never conſider, they often-times <hi>ask of God and have not, becauſe they ask amiſs,</hi> nor can they reaſonably expect a favourable reception, when the manner is ex<g ref="char:EOLhyphen"/>preſly forbid; but ſubjects have a Priviledge of making their Prince underſtand their neceſſities, and though they are ſure to in<g ref="char:EOLhyphen"/>creaſe their Grievances, yet that they will chuſe to bear rather than loſe an uſeleſs Priviledge; but this is the onely way the King can be offended, without breach of Law; ſo that we may gueſs at the love of theſe ungrateful Wretches, who miſchief him all they can, prompted by his indulgence, who never put them to the ſtrictneſs of Law, which they do to him, reſolving not to obey any indifferent Command that rigorous Law commands not; they are reſolved, to their perpetual infamy, to make our late Sa<g ref="char:EOLhyphen"/>cred Royal Martyr ſpeak truth to futurity, <hi>viz. That they are not to be won with Obligations.</hi> How unbounded is their liberty, like their malice and ingratitude? How abſolute did the King make them, when but for asking, he paſſed the <hi>Habeas Corpus</hi> Bill; yet they who reap the onely benefit of it, refuſe him a reaſonable requeſt. What can be expected, from ſuch ill things? Humanity ſorbids to
+<pb n="4" facs="tcp:103980:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 18 -->
+call them Beaſts, and will not ſuffer me to call them men; for theſe creatures, of all men, might rationally be thought the laſt in ſuch Ingenteel Proceedings, becauſe (as <hi>I</hi> ſaid before) they were, as Diſſenters, under the laſh of the Law; but they differ not more from the Church than good Manners. Theſe are the very ſcandal of Proteſtants, ſince they proteſt againſt nothing more than Loyalty: Theſe that are ſuffer'd to Worſhip God after their own wrong way, and are ſo far from being compell'd, that in favour of them, Reaſon it ſelf is almoſt conſtrain'd to believe them men of tender Conſciences; and yet theſe to be the firſt, nay, God be thanked, daily diſturbers of our Governour <hi>Moſes.</hi> What do theſe differ, as lately was obſerved, from <hi>Corah, Dathan, &amp;c.</hi> who in lewd Aſſem<g ref="char:EOLhyphen"/>blies offer falſe fire, and make ſome ſeeming Conſcience of their words, and none of their deeds: Are not theſe they that for Gods ſake obey not the Ordnances of men? But what if God deſign to bring a Judgment on the Nation, and make this an occaſion of haſtning it, as he did when he mov'd <hi>David</hi> to number the people, it is ſaid, that the <hi>anger of the Lord was kindled againſt Iſrael and Judah, and the Lord moved David to ſay, Go number Iſrael and Judah.</hi> And the number of fighting men that were in <hi>Davids</hi> Territories were thirteen hundred thouſand, which (as undoubtedly it did) were enough to make <hi>David</hi> valiant himſelf, which God was pleaſed to humble, by taking away with Peſtilence ſeventy thouſand in three days time. Now if God ſhould move the Heads of the Faction to ſee what number they can draw of their confederacy, and if ſo be they perceive themſelves of number ſufficient to rebell, God may inflict the ſame judgment as befell <hi>Iſrael;</hi> and if a judgment of this nature happen on (more) rebellious <hi>London,</hi> than learn to obey and tremble. For none can doubt, that more the number of Rebels was coveted, than the ſitting of the Parliament; elſe Rebel <hi>Iretons</hi> Son could never have the impudence to ſay, That he knew them that eſteem'd it an honour to his Father, to have his Head on <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter-hall.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
